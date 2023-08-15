@@ -1,6 +1,6 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Rust CI/CD Concepts
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+## Topics
+* Automating with CI/CD Tools
+* Automating with Containerization
+* Packaging and Distributing
